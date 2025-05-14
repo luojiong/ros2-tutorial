@@ -1,0 +1,7 @@
+int32 a
+int32 b
+string operation  # 'add', 'subtract', 'multiply', 'divide'
+---
+float64 result
+bool success
+string message 

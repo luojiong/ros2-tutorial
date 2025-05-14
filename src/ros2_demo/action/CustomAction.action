@@ -1,0 +1,12 @@
+# 目标
+int32 order
+float64 target_value
+---
+# 结果
+bool success
+float64 final_value
+string message
+---
+# 反馈
+float64 current_value
+float64 completion_percentage 
